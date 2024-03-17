@@ -1,7 +1,6 @@
 # BME450-project
 BME 450 deep learning project 2024
-# Title
-  “PDF to LaTeX Deep Learning Algorithm for Recognizing Math”
+# PDF to LaTeX Deep Learning Algorithm for Recognizing Math
 ## Team members
   Grace Lingley (glingley), Reva Simmons (reva-simmons)
 ## Project decription
